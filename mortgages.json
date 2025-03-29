@@ -1,0 +1,67 @@
+{
+    "mortgages": [
+        {
+            "credit_score": 720,
+            "loan_amount": 250000,
+            "property_value": 300000,
+            "annual_income": 85000,
+            "debt_amount": 20000,
+            "loan_type": "fixed",
+            "property_type": "single_family"
+        },
+        {
+            "credit_score": 680,
+            "loan_amount": 350000,
+            "property_value": 400000,
+            "annual_income": 95000,
+            "debt_amount": 35000,
+            "loan_type": "adjustable",
+            "property_type": "condo"
+        },
+        {
+            "credit_score": 620,
+            "loan_amount": 450000,
+            "property_value": 480000,
+            "annual_income": 110000,
+            "debt_amount": 50000,
+            "loan_type": "fixed",
+            "property_type": "single_family"
+        },
+        {
+            "credit_score": 580,
+            "loan_amount": 500000,
+            "property_value": 520000,
+            "annual_income": 120000,
+            "debt_amount": 60000,
+            "loan_type": "adjustable",
+            "property_type": "condo"
+        },
+        {
+            "credit_score": 710,
+            "loan_amount": 275000,
+            "property_value": 350000,
+            "annual_income": 90000,
+            "debt_amount": 15000,
+            "loan_type": "fixed",
+            "property_type": "single_family"
+        },
+        {
+            "credit_score": 650,
+            "loan_amount": 600000,
+            "property_value": 650000,
+            "annual_income": 150000,
+            "debt_amount": 75000,
+            "loan_type": "adjustable",
+            "property_type": "condo"
+        },
+        {
+            "credit_score": 690,
+            "loan_amount": 200000,
+            "property_value": 250000,
+            "annual_income": 80000,
+            "debt_amount": 10000,
+            "loan_type": "fixed",
+            "property_type": "single_family"
+        }
+    ]
+}
