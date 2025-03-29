@@ -14,7 +14,7 @@ class CreditRating:
         self,
         file_path: str=None,
         mortgages: List[dict]=None,
-        chunk_size: int = 2,
+        chunk_size: int = 1000,
         rejection_threshold: float = 0.3,
         mortgage_class=None,
     ):
